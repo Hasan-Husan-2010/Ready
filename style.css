@@ -1,0 +1,185 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+span, a {
+    display: inline-block;
+}
+img {
+    width: 100%;
+}
+.engkatta {
+    max-width: 900px;
+    margin: auto;
+}
+.img {
+    width: 17px;
+}
+.oxirgi {
+    max-width: 900px;
+    margin: 20px auto;
+    text-align: center;
+}
+.j {
+    font-size: 24px;
+}
+.btn {
+    border: none;
+    border-radius: 15px;
+    color: white;
+    padding: 15px 30px;
+    background-color: black;
+}
+.ret {
+    margin-top: 20px;
+}
+.sdf {
+    margin-bottom: 20px;
+}
+.iconss {
+    margin: auto;
+    max-width: 150px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.hj {
+    border: 1px solid black;
+    border-radius: 3px;
+    font-size: 19px;
+    padding: 1px 3px;
+}
+.qwe {
+    max-width: 900px;
+    margin: 20px auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+.tre {
+    text-align: center;
+}
+.o {
+    margin-top: 40px;
+}
+.p {
+    max-width: 900px;
+    margin: 20px auto;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-bottom:1px solid gray;
+}
+.ml{
+    margin: 0;
+}
+.ppp {
+    text-align: center;
+    background-color: rgb(225, 225, 225);
+    padding: 40px;
+}
+.op {
+    max-width: 150px;
+}
+.h, .h1 {
+    max-width: 100px;
+}
+.gh {
+    color: rgb(225, 225, 225);
+}
+.tre {
+    max-width: 900px;
+    margin: 30px auto;
+}
+.pp {
+    color: gray;
+    width: 20%;
+}
+.re {
+    color: black;
+}
+.jk {
+    color: gray;
+}
+.ic {
+    text-align: center;
+    width: 120px;
+}
+.icons {
+    max-width: 900px;
+    margin: 20px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.yui {
+    margin-top: 35px;
+}
+.imgs {
+    padding: 40px;
+    margin-top: 100px;
+    background-color: rgb(225, 225, 225);
+}
+.iu {
+    max-width: 900px;
+    margin: 10px auto;
+}
+.a {
+    color: black;
+    text-align: center;
+    display: block;
+}
+.rasm {
+    max-width: 700px;
+    margin: 20px auto;
+    display: block;
+}
+.asd {
+    text-align: center;
+}
+@media(max-width:700px){
+    .ic {
+        width: 20%;
+    }
+}
+@media(max-width: 636px){
+    .ic {
+        width: 33%;
+    }
+}
+@media(max-width: 600px){
+    .ic {
+        width: 45%;
+    }
+}
+@media(max-width:466px){
+    .pp {
+        width: 25%;
+    }
+}
+@media(max-width:462px){
+    .ic {
+        width: 100%;
+    }
+}
+@media(max-width:395px){
+    .pp {
+        width: 33%;
+    }
+}
+@media(max-width:295px){
+    .pp {
+        width: 45%;
+    }
+}
+@media(max-width:281px){
+    .pp {
+        width: 100%;
+    }
+}
